@@ -1,5 +1,7 @@
 # pycounts
 
+Author: Stepan Zaiatc
+
 Calculate word counts in a text file!
 
 ## Installation
